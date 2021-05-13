@@ -6,7 +6,7 @@ Aside from programming, I also enjoy playing some video games **League of Legend
 If you want more info about me, feel free to visit my website
 
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://giphy.com/gifs/guy-rock-lee-sensei-QNagS57sbUws8)
 
 # **Need help using one of my project?**
 Feel free to open issues on the GitHub page of my projects if you need anything
