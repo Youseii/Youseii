@@ -12,7 +12,7 @@ If you want more info about me, feel free to visit my website
 # **Need help using one of my project?**
 Feel free to open issues on the GitHub page of my projects if you need anything
 
-If you want a more direct way, you can also either contact me by mail (at yodidi25@hotmail.fr) ** Not my professional email 🙂
+If you want a more direct way, you can also either contact me by mail (at yodidi25@hotmail.fr) **Not my professional email** 🙂
 
 # **Want to add a new feature?**
 If you want to add a new feature to one of my projects feel free to open a pull request on any of them!
