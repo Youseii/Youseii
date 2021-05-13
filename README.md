@@ -1,4 +1,4 @@
-Welcome on my profile!
+#Welcome on my profile!
 My name is Christian Chaux and I'm currently a 5th year student at the french school of EPITECH
 But I also really like working on some personal projects on my free time (you can see them if you scroll down a bit)
 Aside from programming, I also enjoy playing some video games or reading books
