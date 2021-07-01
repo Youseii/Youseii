@@ -1,4 +1,4 @@
-# **Welcome on my profile!**
+# **Welcome to my profile!**
 
 My name is **Youcef** and I'm currently a 2nd year student in a French school for my certificate who make me a Superior Technician !
 But I also really like working on some personal projects on my free time
