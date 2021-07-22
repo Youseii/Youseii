@@ -1,9 +1,9 @@
 # **Welcome to my profile!**
 
-My name is **Youcef** and I'm currently a 2nd year student in a French school for my certificate who make me a Superior Technician !
+My name is **Youcef** and I'm currently a 2nd year student in a French school for my Bachelor certification !
 But I also really like working on some personal projects on my free time
 
-Aside from programming and try to learn cybersecurity, I also enjoy playing some video games **League of Legend took a lot of hours in my life :upside_down_face:**
+Aside from programming and try to learn nerwork and cybersecurity, I also enjoy playing some video games **League of Legend took a lot of hours in my life :upside_down_face:**
 
 If you want more info about me, feel free to visit my website
 
