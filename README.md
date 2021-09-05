@@ -1,9 +1,9 @@
 # **Welcome to my profile!**
 
 My name is **Youcef** and I'm currently a 2nd year student in a French school for my Bachelor certification !
-But I also really like working on some personal projects on my free time
+I really like working on some personal projects on my free time
 
-Aside from programming and try to learn nerwork and cybersecurity, I also enjoy playing some video games **League of Legend took a lot of hours in my life :upside_down_face:**
+Aside from programming, I try to learn some new technologies, for example : network, cybersecurity, AI, Programming, etc... I also enjoy playing some video games **League of Legend took a lot of hours in my life :upside_down_face:**
 
 If you want more info about me, feel free to visit my website
 
@@ -22,7 +22,3 @@ If you want to add a new feature to one of my projects feel free to open a pull 
 The easiest way you can do that is to leave a star on the project!
 
 
-
-
-
-**This ReadMe was made with the @Xwilarg readme, than i took as an example**
