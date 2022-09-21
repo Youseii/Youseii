@@ -17,8 +17,3 @@ If you want a more direct way, you can also either contact me by mail (at yodidi
 
 # **Want to add a new feature?**
 If you want to add a new feature to one of my projects feel free to open a pull request on any of them!
-
-# **Want to support me?**
-The easiest way you can do that is to leave a star on the project!
-
-
