@@ -5,9 +5,6 @@ I really like working on some personal projects on my free time
 
 Aside from programming, I try to learn some new technologies, for example : network, cybersecurity, AI, etc... I also enjoy playing some video games **League of Legend took a lot of hours in my life :upside_down_face:**
 
-If you want more info about me, feel free to visit my website
-
-
 ![Alt Text](https://media.giphy.com/media/QNagS57sbUws8/giphy.gif)
 
 # **Need help using one of my project?**
