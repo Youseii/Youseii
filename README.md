@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm sharing some of my project that appaear out of no where in my head, sometimes it's good, sometime it's useless. If you have any question on one of my project,feel free to contact me !<br><br>- 🔭 I’m working as a Devops Engineer <br>- 📚 I'm currently learning Cloud stuff<br></p>
+<p align="left">I'm sharing some of my project that appaear out of no where in my head, sometimes it's good, sometime it's useless. If you have any question on one of my project,feel free to contact me !<br><br>- 🔭 I’m working as a Devops Engineer <br>- 📚 I'm currently learning Cloud stuff<br>- 🇫🇷 From FRANCE !<br></p>
 
 ###
 
