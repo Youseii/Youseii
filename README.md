@@ -58,6 +58,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Youseii&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  ![Youseii's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Youseii&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 </div>
 
 ###
