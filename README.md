@@ -57,8 +57,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Youseii&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youseii&theme=vue-dark&hide_border=true" height="220" alt="streak graph"  />
 </div>
 ###
 
-![Youseii's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Youseii&theme=vue-dark&hide_border=true)
