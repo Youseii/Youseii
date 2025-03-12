@@ -57,8 +57,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youseii&theme=vue-dark&hide_border=true" height="220" alt="streak graph"/>
+  <img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youseii&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)" height="220" alt="streak graph"/>
+
 </div>
 ###
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youseii&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
