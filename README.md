@@ -55,9 +55,6 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
-<div align="center">
-  <img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youseii&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)" height="220" alt="streak graph"/>
-
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youseii&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Youseii&theme=vue-dark&hide_border=true)
 ###
