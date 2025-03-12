@@ -1,12 +1,6 @@
-# **Welcome to my profile!**
+# Bienvenue / *Welcome*
 
-My name is **Youcef** and Master student in Internship in a French school for my Certification !
-I really like working on some personal projects on my free time
+Je partage ici certains aspects de mon métier de consultant en cybersécurité sous licence open source. Si vous avez des questions sur ces projets ou mes services, n'hésitez pas à me contacter.
+I'm sharing some of my project that appaear out of no where in my head, sometimes it's good, sometime it's useless. If
 
-Aside from programming, I try to learn some new technologies, for example : network, cybersecurity, AI, etc..
-
-# **Need help using one of my project?**
-Feel free to open issues on the GitHub page of my projects if you need anything
-
-# **Want to add a new feature?**
-If you want to add a new feature to one of my projects feel free to open a pull request on any of them!
+*I will share some contents here under an open-source license ( for a future project ). If you have any questions about these projects or my services, feel free to contact me.*
