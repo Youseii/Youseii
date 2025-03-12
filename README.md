@@ -56,5 +56,5 @@
 
 ###
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youseii&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Youseii&theme=vue-dark&hide_border=true)
+![Github Streak](https://github-readme-streak-stats.demolab.com/?user=Youseii&theme=vue-dark&hide_border=true)
 ###
