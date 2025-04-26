@@ -30,7 +30,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/ansible/original-wordmark.svg" height="40" alt="Ansible logo"  />
+  <img src="https://devicon-website.vercel.app/api/ansible/plain-wordmark.svg" height="40" alt="Ansible logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
   <img width="12" />
